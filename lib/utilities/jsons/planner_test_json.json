@@ -1,0 +1,45 @@
+{
+    "Fall-2023": {
+        "id": 1,
+        "classes": {
+            "Math-2A": {
+                "index": "1",
+                "units": "4"
+            },
+            "Physics-7C": {
+                "index": "2",
+                "units": "4"
+            }
+        }
+    },
+    "Winter-2023": {
+        "id": 2,
+        "classes": {
+            "Math-2B": {
+                "index": "1",
+                "units": "4"
+            },
+            "Physics-7D": {
+                "index": "2",
+                "units": "4"
+            },
+            "Physics-7LD": {
+                "index": "3",
+                "units": "4"
+            }
+        }
+    },
+    "Spring-2023": {
+        "id": 3,
+        "classes": {
+            "Math-2D": {
+                "index": "1",
+                "units": "4"
+            },
+            "EECS31": {
+                "index": "2",
+                "units": "4"
+            }
+        }
+    }
+}

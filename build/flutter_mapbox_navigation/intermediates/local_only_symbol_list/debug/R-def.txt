@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color ic_launcher_background
+color red
+color white
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+id maneuverView
+id mapView
+id navigationView
+id recenter
+id routeOverview
+id soundButton
+id stop
+id tripProgressCard
+id tripProgressView
+layout components_navigation_activity
+layout navigation_activity
+string noTokenDialogBody
+string noTokenDialogTitle
+string was_navigation_stopped
+style AppTheme
+style MapboxCustomManeuverStyle
+style MapboxCustomManeuverTurnIconStyle
+style MapboxCustomTripProgressStyle

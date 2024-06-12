@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\soovittt\\Documents\\GitHub\\NotifyMe\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\soovittt\\.gradle\\caches\\transforms-3\\ea3b598786bfe98a7d0060a0f73339e2\\transformed\\jetified-base-2.10.4\\res\\values-id\\values-id.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\soovittt\\.gradle\\caches\\transforms-3\\dc462fc1f7a115adb1356666226e985a\\transformed\\jetified-ui-voice-2.10.4\\res\\values-id\\values-id.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,59",
+                        "endOffsets": "107,167"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "120,177",
+                        "endColumns": "56,59",
+                        "endOffsets": "172,232"
+                    }
+                }
+            ]
+        }
+    ]
+}
